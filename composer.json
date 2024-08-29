@@ -15,8 +15,8 @@
     "authors": [
         {
             "name": "hncore",
-            "email": "hacoi.dev@gmail.com"
+            "email": "hncore@icloud.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
