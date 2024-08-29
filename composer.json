@@ -1,0 +1,22 @@
+{
+    "name": "hncore/caching-model",
+    "description": "A simple cache library for laravel eloquent model",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HNCore\\CachingModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hncore",
+            "email": "hacoi.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
